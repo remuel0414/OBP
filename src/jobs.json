@@ -1,0 +1,102 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Jordan 4 Nike SB",
+      "type": "Shoe",
+      "location": "Guangdong",
+      "description": "GX batch. The Jordan 4 Retro SB Pine Green used a white leather upper with a Neutral Grey suede mudguard. The limited edition sneakers sit on top of a white and Pine Green midsole which is highlighted by a red air unit. Nike used a gum outsole to help with increased grip while skateboarding.",
+      "salary": "200 - 300 Yuan",
+      "company": {
+        "name": "GXMADE",
+        "description": "We make GX batches of Jordan 2,3 and 4. Top tier batches available.",
+        "contactEmail": "contact@GXMADE.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Jordan 1 Travis Scott Low Reverse Mocha",
+      "type": "Shoe",
+      "location": "Huizhou",
+      "description": "FK Batch. The Air Jordan 1 colourway \"Reverse Mocha\" designed by Travis Scott and Jordan Brand has finally arrived. This sneaker is crafted from a mix of suede and leather panels in neutral tones - Sail and Ridgerock - while some University red accents appear on the tongue label and embroidered logo on the heel.",
+      "salary": "200 - 300 Yuan",
+      "company": {
+        "name": "CSJ aka Anonymous",
+        "description": "We are one of the original FK and PK makers of Jordan 1. Top tier Batches only.",
+        "contactEmail": "contact@anonymous.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "3",
+      "title": "New Balance 2002r Cloud Protection",
+      "type": "Shoe",
+      "location": "Hainan",
+      "description": "ZC top tier batch. The New Balance 2002R Protection Pack Rain Cloud features a grey mesh upper with tonal jagged suede overlays and a reflective New Balance logo. From there, a cream Nrgy midsole and grey outsole complete the design.",
+      "salary": "100 - 200 Yuan",
+      "company": {
+        "name": "Top",
+        "description": "We offer top tier batches of lifestyle shoes such as new balance, asics, etc. ",
+        "contactEmail": "contact@TopSeller.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Jordan 1 Travis Scott Low Fragments",
+      "type": "Shoe",
+      "location": "Fujian",
+      "description": "PK batch top tier. It features a smooth white leather upper with black and royal blue leather overlays. From there, a signature reversed Swoosh and yellowed soles add a Cactus Jack flair to the classic silhouette. ",
+      "salary": "200 - 300 Yuan",
+      "company": {
+        "name": "JDMY",
+        "description": "We offer top tier batches of hype sneakers aka Travis, Yeezys, etc.",
+        "contactEmail": "contact@JDMY.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Yeezy Foam Runners Bone",
+      "type": "Shoe",
+      "location": "Huizhou",
+      "description": "LW Batch. Inside the slip-on, the footbed is equipped with a textured surface that prevents the foot from slipping. Branding is limited to 'FOAM RNNR' debossed",
+      "salary": "100 - 200 Yuan",
+      "company": {
+        "name": "Hotdog",
+        "description": "We offer top tier batches of clogs and runners. ",
+        "contactEmail": "contact@hotdog.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Nike Dunk Low Panda",
+      "type": "Shoe",
+      "location": "Fujian",
+      "description": "VT Batch. The premium white leather upper, black leather overlays and classic shape with stylish branded accents complement each other to perfection and come together for a clean look that flawlessly finishes off any outfit, no matter the style or the season.",
+      "salary": "100 - 200 Yuan",
+      "company": {
+        "name": "Capuccino",
+        "description": "We offer middle tier batches of in demand shoes like dunks, sambas, jordan 1 low.",
+        "contactEmail": "contact@Capuccino.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "32d3",
+      "title": "Adidas Samba",
+      "type": "Shoe",
+      "location": "China mainland",
+      "description": "VT batch. It typically is constructed with a mix of suede and leather, complemented by a contrasting gum sole and the 'Three-Stripe' branding. The \"SAMBA\" branding positioned near the three stripes, using a gold-colored embossed font highlights the model.",
+      "salary": "100 - 200 Yuan",
+      "company": {
+        "name": "001sports",
+        "description": "The first makers of the VT batch for sambas. Middle to top tier batches available.",
+        "contactEmail": "contact@001sports.com",
+        "contactPhone": "555555"
+      }
+    }
+  ]
+}
