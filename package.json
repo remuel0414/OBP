@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://remuel0414.github.io/OBP/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

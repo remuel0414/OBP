@@ -1,7 +1,8 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
-export default defineConfig({ // Replace 'your-repo-name' with your repo name
+export default defineConfig({
+  base: '/OBP/', // Set the base URL to the relative path of your GitHub Pages URL
   plugins: [react()],
   server: {
     port: 3000,
