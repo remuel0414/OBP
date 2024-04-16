@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  base: '/OBP/', // Replace 'your-repo-name' with your repo name
+  base: '/https://remuel0414.github.io/OBP//', // Replace 'your-repo-name' with your repo name
   plugins: [react()],
   server: {
     port: 3000,
